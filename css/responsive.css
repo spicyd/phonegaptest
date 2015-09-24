@@ -1,0 +1,210 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (-webkit-min-device-pixel-ratio:0)
+{
+}
+
+
+@media only screen
+and (min-width:1220px)
+{
+	.container
+			{
+			width:1220px}
+.navbar-upg	.nav-aftr{float:right;}
+ .no-pad-full{padding:0;margin:0;}
+
+}
+
+@media only screen
+and (max-width:1220px)
+{
+	#section_form_inner .form_search form input#search {
+    margin-left: 21%;}
+	#section_form_inner .form_search ul {
+    margin-right: 1.9%;
+}
+
+
+#section_1_page1 .news_inner {
+    padding: 0 17px 27px 0;
+}
+	
+}
+@media only screen
+and (max-width:1220px)
+and (min-width:1200px)
+{
+	#section_1_page1 .news_inner {
+    padding: 0 27px 27px 0;
+}
+
+	
+}
+@media only screen
+and (max-width:1220px)
+and (min-width:992px)
+{
+	.form_search form button#searchbtn { width: 11.9%}
+	.form_search form input#search { margin-left: 11%;
+    width: 64.5%;
+}
+	#section_1_page1 .no-pad:nth-child(3n) .news_inner {
+    padding-right: 17px;
+}
+#section_1_page1 .section_1_1-sidebar {
+    width: 17.26%;
+}
+#section_1_page1 .section_1_1-inner {
+    width: 82.6%;
+}
+
+}
+@media only screen
+and (min-width:992px)
+{
+	
+}
+@media only screen
+and (max-width:992px)
+{
+	.section_1_inner {
+    padding: 30px 30px 5px;
+}
+.form_search form input#search { margin-left: 9.5%;}
+	.form_search form button#searchbtn { width: 15%;}
+	.form_search ul {
+    margin-right: 10.3%;}
+	#section_form_inner .form_search form input#search {
+    margin-left: 18%;
+}
+#section_form_inner .form_search ul {
+    margin-right: 3.8%;
+}
+#section_1_page1 .section_1_1-sidebar {
+    width: 22.85%;
+}
+
+.sidbar-ad ul li {
+    display: inline-block;
+    float: left;
+    margin-right: 1px;}
+
+	
+
+}
+
+
+@media only screen
+and (max-width:992px)
+and (min-width:767px)
+{
+	#section_1_page1 .section_1_1-inner {
+    width: 77.5%;
+}
+.sidbar-ad ul li:last-child {
+    margin-right: 17px;
+}
+#section_1_page1 .section_1_1-sidebar {
+    width: 22.5%;
+}
+.navbar-upg ul li a {
+    padding: 15px 10px 14px;
+}
+	
+}
+@media only screen
+and (min-width:767px)
+{
+	.section_1_1-sidebar
+{display:block !important;}}
+@media only screen
+and (max-width:767px)
+{
+.more_news { margin-bottom:20px;}	
+.form_search form button#searchbtn {
+    width: 23%;
+}
+.form_search form input#search {
+    margin-left: 5.5%;
+}
+.form_search ul {
+    margin-right: 6%;
+}
+.bottom-banner {
+    padding: 15px 0;
+}
+#section_form_inner .form_search form input#search {
+    margin-left: 9.5%;
+}
+#section_1_page1 .news_inner img{ width:100%;}
+#section_1_page1 .news_inner {
+    padding: 0 0 27px 0;
+}
+#section_1_page1 .section_1_1-inner {
+    width: 100%;
+}
+#section_1_page1 .no-pad:nth-child(3n) .news_inner {
+    padding-right: 0;
+}
+#section_1_page1 .section_1_1-sidebar {
+    width: 326px;
+	position:absolute;
+	top: -35px;
+	left: -67%;
+}
+#section_1_page1{position:relative;}
+#section_form_inner{position:relative;}
+#section_form_inner .sidbar-button{position:absolute; bottom:0; /*left:2.1%;*/ padding-left:0; cursor:pointer;}
+#social_icon_header {
+    padding-top: 0;
+    text-align: center;
+}
+}
+
+
+
+@media only screen
+and (max-width:767px)
+and (min-width:480px)
+{
+	
+}
+@media only screen
+and (max-width:480px)
+{
+.form_search form button#searchbtn {
+    width: 39%;
+}
+.form_search form input#search {
+    margin-left: 0;
+}
+.form_search form input#search {
+    width: 58.5%;
+}	
+.footer-inner .copyright {
+    float: left;
+    margin-top: 16px;
+    text-align: center;
+    width: 100%;
+}
+.footer-inner ul li{display:block;}
+.footer-inner ul {
+    text-align: center;
+	width:100%;
+}
+.section_1_inner{ padding:0; background-color:#fff;}
+#social_icon_header {
+    text-align: center;
+}
+#section_form_inner .form_search form input#search {
+    margin-left: 0%;
+	width:100%;
+}
+#section_form_inner .form_search{padding:20px 30px;}
+#section_form_inner .form_search form button#searchbtn {margin-left:0; width:100%; margin-top:10px;}
+#section_1_page1 .section_1_1-sidebar {
+    width: 162px;
+}
+#section_form_inner .sidbar-button{ /*left:2.1%;*/ margin-left:-30px;}
+}
